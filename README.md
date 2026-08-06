@@ -153,7 +153,7 @@ The dashboard helps analyze:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **P. Saisri Rao**
 
